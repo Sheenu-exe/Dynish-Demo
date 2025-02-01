@@ -34,7 +34,7 @@ const MenuPage = () => {
       price: 40,
       isVeg: true,
       description: "Soft and fluffy steamed rice cakes served with chutney and sambar",
-      image: "/images/idly.webp",
+      image: "/idli.webp",
       isRecommended: true,
       rating: 4.5,
       customization: ["Extra Sambar", "Extra Chutney"]
@@ -46,7 +46,7 @@ const MenuPage = () => {
       price: 60,
       isVeg: true,
       description: "Idly tossed in ghee and spicy karam powder",
-      image: "/images/ghee-idly.webp",
+      image: "/ghee-karam-idli.webp",
       isRecommended: true,
       rating: 4.3,
       customization: ["Extra Ghee", "Extra Karam"]
@@ -58,7 +58,7 @@ const MenuPage = () => {
       price: 80,
       isVeg: true,
       description: "Crispy dosa with spiced potato filling, served with chutney and sambar",
-      image: "/images/masala-dosa.webp",
+      image: "/masala-dosa.webp",
       isRecommended: true,
       rating: 4.6,
       customization: ["Extra Potato", "Extra Chutney"]
@@ -70,7 +70,7 @@ const MenuPage = () => {
       price: 200,
       isVeg: false,
       description: "Aromatic rice cooked with tender chicken and special spices",
-      image: "/images/biryani.webp",
+      image: "/biryani.webp",
       isRecommended: true,
       rating: 4.4,
       customization: ["Extra Raita", "Extra Gravy"]
