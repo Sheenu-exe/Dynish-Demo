@@ -14,7 +14,7 @@ const HomePage = () => {
     {
       id: 1,
       name: "Beverage/Water bottle (Unos)",
-      image: "/images/hotel.webp",
+      image: "/hotel.webp",
       type: "dark",
       rating: "4.5",
       deliveryTime: "20-25",
@@ -24,7 +24,7 @@ const HomePage = () => {
     {
       id: 2,
       name: "Konaseema Kitchen",
-      image: "/images/hotel.webp",
+      image: "/hotel.webp",
       type: "sunset",
       rating: "4.2",
       deliveryTime: "25-30",
@@ -34,7 +34,7 @@ const HomePage = () => {
     {
       id: 3,
       name: "99 Pancakes",
-      image: "/images/hotel.webp",
+      image: "/hotel.webp",
       type: "gradient",
       rating: "4.3",
       deliveryTime: "15-20",
@@ -44,7 +44,7 @@ const HomePage = () => {
     {
       id: 4,
       name: "Wow Coco",
-      image: "/images/hotel.webp",
+      image: "/hotel.webp",
       type: "mascot",
       rating: "4.4",
       deliveryTime: "20-25",
@@ -54,7 +54,7 @@ const HomePage = () => {
     {
       id: 5,
       name: "Malabaris The Kerala Kitchen",
-      image: "/images/hotel.webp",
+      image: "/hotel.webp",
       type: "light",
       rating: "4.1",
       deliveryTime: "30-35",
@@ -64,7 +64,7 @@ const HomePage = () => {
     {
       id: 6,
       name: "Shasha Shandaar Shawarma",
-      image: "/images/hotel.webp",
+      image: "/hotel.webp",
       type: "dark",
       rating: "4.0",
       deliveryTime: "25-30",
