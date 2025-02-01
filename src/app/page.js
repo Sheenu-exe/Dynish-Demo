@@ -188,14 +188,6 @@ const HomePage = () => {
                   <h3 className="text-white font-semibold text-lg leading-tight mb-2">
                     {restaurant.name}
                   </h3>
-                  <div className="flex items-center gap-2">
-                    <span className="bg-white/90 text-xs font-medium px-2 py-1 rounded-full text-gray-800">
-                      ⭐ {restaurant.rating}
-                    </span>
-                    <span className="bg-white/90 text-xs font-medium px-2 py-1 rounded-full text-gray-800">
-                      🕒 {restaurant.deliveryTime} mins
-                    </span>
-                  </div>
                   <div className="flex flex-wrap gap-1 mt-2">
                     {restaurant.cuisines.map((cuisine, index) => (
                       <span key={index} className="text-xs text-white/90">
