@@ -205,7 +205,7 @@ const HomePage = () => {
       </div>
 
       {/* Bottom Navigation */}
-      <nav className="fixed bottom-0 left-0 right-0 bg-white border-t border-yellow-100 py-2">
+      <nav className="sticky bottom-0 left-0 right-0 bg-white border-t border-yellow-100 py-2">
         <div className="max-w-4xl mx-auto px-4">
           <div className="flex justify-around items-center">
             <button className="p-2 text-yellow-600">
