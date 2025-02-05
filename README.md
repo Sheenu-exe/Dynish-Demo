@@ -28,8 +28,8 @@ This is the **frontend** implementation of **Dynish**, a digital dine-in food or
 ### **Installation Steps**
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/dynish-frontend.git
-cd dynish-frontend
+git clone https://github.com/Sheenu-exe/Dynish-Demo.git
+cd dynish-Demo
 
 # Install dependencies
 npm install  # or yarn install
